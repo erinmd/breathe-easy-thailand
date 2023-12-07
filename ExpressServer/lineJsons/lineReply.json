@@ -1,0 +1,9 @@
+{
+    "replyToken": "bb173f4d9cf64aed9d408ab4e36339ad",
+    "messages" : [
+        {
+            "type": "text",
+            "text": "hello user"
+        }
+    ]
+}
